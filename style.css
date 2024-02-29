@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+#navone {
+    color: black;
+}
+
+#navtwo {
+    color: black;
+}
+
+#navthree {
+    color: black;
+}
+
+#navfour {
+    color: black;
+}
+
+#navfive {
+    color: black;
+}
+
+#navhome {
+    color: black;
+}
+
+.home-main-head {
+    font-size: 50px;
+    color: #176B87;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.home-butn-style {
+    color: white;
+    background-color: #e9443c;
+    border-radius: 6px;
+    font-size: 15px;
+    border-style: none;
+    height: 40px;
+    width: 110px;
+    margin-top: 15px;
+}
+
+.sub-heads {
+    color: #176B87;
+    font-size: 25px;
+}
+
+.Featured-bg-image-one {
+    background-image: url('https://res.cloudinary.com/dafmi9027/image/upload/v1687682008/SHOE%20WORLD/jordan-whitfield-cfutbZ4Kt2k-unsplash_wpnfwv.jpg');
+    height: 60vh;
+    background-size: cover;
+
+}
+
+.featured-image-head {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.Featured-bg-image-two {
+    background-image: url('https://res.cloudinary.com/dafmi9027/image/upload/v1687682010/SHOE%20WORLD/mark-adriane-1533MrY5liQ-unsplash_luaesb.jpg');
+    height: 60vh;
+    background-size: cover;
+}
+
+.Featured-bg-image-three {
+    background-image: url('https://res.cloudinary.com/dafmi9027/image/upload/v1687682009/SHOE%20WORLD/whereslugo-iixzyDCmM2A-unsplash_gbjvom.jpg');
+    height: 60vh;
+    background-size: cover;
+}
+
+.new-arrival-box {
+    background-color: white;
+    cursor: pointer;
+}
+
+.shoe-brand {
+    color: #e9443c;
+    font-size: 18px;
+}
+
+.shoe-name {
+    font-weight: 400;
+}
+
+.shoe-gender {
+    color: grey;
+    font-weight: 400;
+}
+
+.shoe-price {
+    font-weight: 500;
+    font-size: 17.5px;
+}
+
+span {
+    color: #e9443c;
+    font-style: italic;
+}
+
+.men-shoes-catagories-box-sneakers {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-sneakers:hover {
+    color: transparent;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868431/SHOE%20WORLD/MEN/Banners/9614fe135595061.61ea5ad4f3872_wd1xq8.png");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-jordans {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-jordans:hover {
+    color: transparent;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868430/SHOE%20WORLD/MEN/Banners/af69a4123438683.60ee79ea714d2_tg1lvs.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-airmax {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-airmax:hover {
+    color: transparent;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868429/SHOE%20WORLD/MEN/Banners/ce1463160789193.63bada3237b89aaa_nqhien.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-pegasus {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-pegasus:hover {
+    color: transparent;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868430/SHOE%20WORLD/MEN/Banners/f62292171616083.64717e914062a_fwysej.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-vamero {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-vamero:hover {
+    color: transparent;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868429/SHOE%20WORLD/MEN/Banners/59f241171616083.64733cad1f0b7_jja05y.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-roshe {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-roshe:hover {
+    color: transparent;
+    font-family: Alata, Sans-Serif;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868429/SHOE%20WORLD/MEN/Banners/9993a7171616083.64733cad1fdc8_ts0fc1.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+
+.men-shoes-catagories-box-tanjun {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-tanjun:hover {
+    color: transparent;
+    font-family: Alata, Sans-Serif;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868429/SHOE%20WORLD/MEN/Banners/ded42f171616083.64733cad20c82_xpnyvp.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.men-shoes-catagories-box-vapor {
+    background-color: white;
+    border-color: #e9443c;
+    border-radius: 5px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+
+.men-shoes-catagories-box-vapor:hover {
+    color: transparent;
+    font-family: Alata, Sans-Serif;
+    background-image: url("https://res.cloudinary.com/dafmi9027/image/upload/v1687868429/SHOE%20WORLD/MEN/Banners/a0cafb171616083.64717e9141131_awyvye.jpg");
+    background-size: cover;
+    height: 30vh;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.shoe-footer-section {
+    background-color: #394867;
+}
+
+.footer-sec-sub-head {
+    color: white;
+    font-size: 30px;
+}
+
+.icon-bg {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.footer-head {
+    color: white;
+    font-size: 20px;
+}
+
+.footer-para {
+    color: white;
+    font-size: 15px;
+}
